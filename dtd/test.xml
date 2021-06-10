@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE root SYSTEM "test.dtd">
+<root>
+    <date>
+        <Nume>Popescu</Nume>
+        <Prenume>Ion</Prenume>
+        <Username>pion</Username>
+    </date>
+    <date>
+        <Nume>Georgescu</Nume>
+        <Prenume>Mihai</Prenume>
+        <Username>gmihai</Username>
+    </date>
+    <date>
+        <Nume>Ionescu</Nume>
+        <Prenume>Bogdan</Prenume>
+        <Username>ibogdan</Username>
+    </date>
+</root>
